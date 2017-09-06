@@ -12,3 +12,17 @@ H:\Bureau\TortoiseTest\TortoiseTest\Allo\Allo\obj\Debug\Allo.Properties.Resource
 H:\Bureau\TortoiseTest\TortoiseTest\Allo\Allo\obj\Debug\Allo.csproj.GenerateResource.Cache
 H:\Bureau\TortoiseTest\TortoiseTest\Allo\Allo\obj\Debug\Allo.exe
 H:\Bureau\TortoiseTest\TortoiseTest\Allo\Allo\obj\Debug\Allo.pdb
+D:\TortoiseTest\Allo\Allo\bin\Debug\Allo.exe.config
+D:\TortoiseTest\Allo\Allo\bin\Debug\Allo.exe
+D:\TortoiseTest\Allo\Allo\bin\Debug\Allo.pdb
+D:\TortoiseTest\Allo\Allo\obj\Debug\Allo.csprojResolveAssemblyReference.cache
+D:\TortoiseTest\Allo\Allo\obj\Debug\MainWindow.g.cs
+D:\TortoiseTest\Allo\Allo\obj\Debug\App.g.cs
+D:\TortoiseTest\Allo\Allo\obj\Debug\Allo_MarkupCompile.cache
+D:\TortoiseTest\Allo\Allo\obj\Debug\Allo_MarkupCompile.lref
+D:\TortoiseTest\Allo\Allo\obj\Debug\MainWindow.baml
+D:\TortoiseTest\Allo\Allo\obj\Debug\Allo.g.resources
+D:\TortoiseTest\Allo\Allo\obj\Debug\Allo.Properties.Resources.resources
+D:\TortoiseTest\Allo\Allo\obj\Debug\Allo.csproj.GenerateResource.Cache
+D:\TortoiseTest\Allo\Allo\obj\Debug\Allo.exe
+D:\TortoiseTest\Allo\Allo\obj\Debug\Allo.pdb
