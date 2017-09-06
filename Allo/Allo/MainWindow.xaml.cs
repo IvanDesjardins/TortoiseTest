@@ -27,6 +27,7 @@ namespace Allo
 
       private void Button_Click(object sender, RoutedEventArgs e)
       {
+         if(true) { e.Source = "Test"; }
          MessageBox.Show("Allo Yannick.","Message");
       }
    }
